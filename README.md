@@ -1,2 +1,2 @@
 # CalendarApp
-Web/Desktop Application enabled with API
+Web/Desktop Application enabled with Google API's

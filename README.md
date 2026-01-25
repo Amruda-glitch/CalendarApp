@@ -27,4 +27,16 @@ In addition to data visualization, I developed a functional backend script to au
 * **Secure Data Handling:** Managed OAuth2 flows and secure token storage locally.
 * **Automation:** Streamlined the process of turning event lists into calendar invites.
 
+Here its is,
+
+## 🎯 Project Spotlight: "One-Tap" Campus Event Hub
+
+### ⚠️ The Problem
+College fests and workshops are often missed because students don't see the physical posters, leading to missed opportunities for networking and career growth.
+
+### ✅ My Solution
+I built a "One-Tap" Campus Event Hub using Python. This tool bridges the gap between event organizers and students by:
+* Automating event scheduling via the **Google Calendar API**.
+* Providing a centralized hub for all campus workshops and fests.
+* Reducing the reliance on physical posters and ensuring real-time updates.
 
